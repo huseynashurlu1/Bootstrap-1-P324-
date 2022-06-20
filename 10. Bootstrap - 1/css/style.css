@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container{
+    padding: 0 4rem;
+}
+
+#First{
+    padding: 5rem 0;
+}
+
+h3{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box{
+    width: 30%;
+    margin-bottom: 30px;
+}
+
+.box img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+
+@media(max-width:576px) {
+    .container{
+        padding: 0 1rem;
+    }
+    .box{
+        width: 100%;
+    }
+} */
+
